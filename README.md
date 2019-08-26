@@ -1,7 +1,10 @@
+Play here:
+https://ghostchant.itch.io/datamaku
+
 Datamaku is a game for the pico-8 fantasy console:
 https://www.lexaloffle.com/pico-8.php
 
-pico-8 games are writtenin Lua:
+pico-8 games are written in Lua:
 
 Game Summary: 
 
